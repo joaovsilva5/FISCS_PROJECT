@@ -19,5 +19,5 @@ o tempo de forma eficiente
 ## Mais detalhes sobre o aplicativo podem ser vistos nos seguintes links:
  - [Vídeo de Apresentação do Projeto](COLOCAR LINK AQUI);
  - [Vídeo de Demonstração do Aplicativo](COLOCAR LINK AQUI);
- - [GitHub do Projeto](COLOCAR LINK AQUI).
+ - [https://github.com/joaovsilva5/FISCS_PROJECT].
 
