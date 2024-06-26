@@ -19,7 +19,7 @@ o tempo de forma eficiente
 - VSCODE.
 
 ## Mais detalhes sobre o aplicativo podem ser vistos nos seguintes links:
- - [Vídeo de Apresentação do Projeto](COLOCAR LINK AQUI);
+ - [Vídeo de Apresentação do Projeto](https://youtu.be/H5qDyBRRHsk);
  - [Vídeo de Demonstração do Aplicativo](COLOCAR LINK AQUI);
  - [https://github.com/joaovsilva5/FISCS_PROJECT].
 
