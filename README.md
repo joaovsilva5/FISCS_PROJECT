@@ -7,6 +7,10 @@ A aplicação tem como objetivo facilitar o processo de inspeção e fiscalizaç
 Com as inspeções realizadas, deseja-se manter um controle com login local para os fiscalizadores, facilitando a forma de trabalhar e manejando
 o tempo de forma eficiente
 
+# MODELO DE BAIXA FIDELIDADE
+
+![Logo_Aplicativo](https://github.com/joaovsilva5/FISCS_PROJECT/blob/main/Atividades%20da%20disciplina/Prot%C3%B3tipo_de_Baixa_M%C3%A9dia_Fidelidade.jpg)
+
 ## Funcionalidades
 - Cadastro de Inspeções: Permite o cadastro de novas fiscalizações, incluindo informações relevantes como local, data, tipo de inspeção, entre outros;
 - Rotas: Com o auxílio do Google Maps, deseja-se criar uma possibilidade o planejamento de rotas e bairros que serão fiscalizados;
